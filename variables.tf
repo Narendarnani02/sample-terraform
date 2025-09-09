@@ -19,5 +19,5 @@ variable "instance_type" {
 variable "key_name" {
   description = "Existing EC2 Key Pair name"
   type        = string
-  default     = "shiva"
+  default     = "nanipem"
 }
